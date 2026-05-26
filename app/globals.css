@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fdfaf5;
+  color: #3a2418;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.prose {
+  max-width: none;
+}
